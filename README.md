@@ -32,6 +32,8 @@ To choose the rules that you want to play with, use the menu at the start of the
 [2] https://www.tutorialspoint.com/design_pattern/index.htm
 [3] https://www.digitalocean.com/community/tutorials/java-design-patterns-example-tutorial
 
+The Application features interactive visual controls and is built using Java design patterns and Gradle, following a test driven development approach.
+
 # Before you begin
 
 ## Requirements
