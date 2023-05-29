@@ -1,11 +1,14 @@
 
+
 # One Handed Solitaire
 
-CLI Version
+**CLI Version**
+
 <img width="505" alt="Screenshot 2023-05-29 at 3 28 12 PM" src="https://github.com/vgnshiyer/One-handed-solitaire/assets/39982819/4b6fa0d6-80a8-4272-9bed-cb499d785a53">
 <img width="326" alt="Screenshot 2023-05-29 at 3 29 06 PM" src="https://github.com/vgnshiyer/One-handed-solitaire/assets/39982819/f68f51fe-fa88-49ea-aa87-334efb2a7b8d">
 
-GUI Version
+**GUI Version**
+
 <img width="526" alt="Screenshot 2023-05-29 at 3 29 47 PM" src="https://github.com/vgnshiyer/One-handed-solitaire/assets/39982819/28ce22bf-9db7-4346-828e-cace2ff5e3ff">
 
 One-Handed Solitaire is a simple card game that can be played with one hand. The goal of the game is to move all of the cards to the foundation piles. You can only move cards that are one higher or one lower than the card on top of the foundation pile.
