@@ -11,7 +11,7 @@
 
 <img width="526" alt="Screenshot 2023-05-29 at 3 29 47 PM" src="https://github.com/vgnshiyer/One-handed-solitaire/assets/39982819/28ce22bf-9db7-4346-828e-cace2ff5e3ff">
 
-One-Handed Solitaire is a simple card game that can be played with one hand. The goal of the game is to move all of the cards to the foundation piles. You can only move cards that are one higher or one lower than the card on top of the foundation pile.
+One-Handed Solitaire is a simple card game that can be played with one hand. The goal of the game is to move as many number of the cards as possible to the foundation piles. The lesser cards you have in your hand at the end of the game, the higher your score is.
 
 There are three different sets of rules that you can choose from:
 
