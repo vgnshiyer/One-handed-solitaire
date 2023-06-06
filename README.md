@@ -28,8 +28,8 @@ To choose the rules that you want to play with, use the menu at the start of the
 
 # References
 
-[1] https://www.javatpoint.com/design-patterns-in-java
-[2] https://www.tutorialspoint.com/design_pattern/index.htm
+[1] https://www.javatpoint.com/design-patterns-in-java \
+[2] https://www.tutorialspoint.com/design_pattern/index.htm \
 [3] https://www.digitalocean.com/community/tutorials/java-design-patterns-example-tutorial
 
 The Application features interactive visual controls and is built using Java design patterns and Gradle, following a test driven development approach.
