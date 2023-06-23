@@ -6,7 +6,7 @@
 
 <img width="505" alt="Screenshot 2023-05-29 at 3 28 12 PM" src="https://github.com/vgnshiyer/One-handed-solitaire/assets/39982819/4b6fa0d6-80a8-4272-9bed-cb499d785a53">
 
-<img width="505" alt="game cli gif" src="https://github.com/vgnshiyer/One-handed-solitaire/assets/39982819/e153fa54-59cd-469b-9589-fd9667b114e2">
+<img width="505" alt="game cli gif" src="https://github.com/vgnshiyer/One-handed-solitaire/assets/39982819/47ed6d18-7770-438e-895d-9e5481a9ad55">
 
 
 **GUI Version**
